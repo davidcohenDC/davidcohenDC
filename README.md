@@ -15,13 +15,13 @@ I am David Cohen, an enthusiastic professional in machine learning and mobile ap
 - 👯 **Collaboration:** Keen to contribute to projects involving software engineering and backend web development.
 - 🤔 **Intellectual Pursuits:** I thrive on tackling complex problems and applying my skills in dynamic environments.
 
-### Reach Out To Me
-- 📫 **Email:** [david.cohen@studio.unibo.it](mailto:david.cohen@studio.unibo.it) [david.cohen@outlook.it](mailto:david.cohen@outlook.it) | [david.cohen.inbox@gmail.com](mailto:david.cohen.inbox@gmail.com)
-
-
-### A Bit More About Me
+### A Bit More About Myself
 - 💬 **Expertise:** Feel free to ask me about Java, Scala, Kotlin, and my journey in leading software development projects.
 - ⚡ **Extras:** Beyond tech, I'm a language enthusiast, fluent in Italian, proficient in English (B2), and conversational in Greek.
+
+### Contacts
+- 📫 **Email:** [david.cohen@studio.unibo.it](mailto:david.cohen@studio.unibo.it) | [david.cohen@outlook.it](mailto:david.cohen@outlook.it) | [david.cohen.inbox@gmail.com](mailto:david.cohen.inbox@gmail.com)
+
 
 More about me on my [Linkedin Page](https://www.linkedin.com/in/david-cohen96/).
 
