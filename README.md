@@ -21,7 +21,7 @@ I am David Cohen, an enthusiastic professional in machine learning and mobile ap
 
 ### A Bit More About Me
 - 💬 **Expertise:** Feel free to ask me about Java, Scala, Kotlin, and my journey in leading software development projects.
-- ⚡ **Fun Fact:** Beyond tech, I'm a language enthusiast, fluent in Italian, proficient in English (B2), and conversational in Greek.
+- ⚡ **Extras:** Beyond tech, I'm a language enthusiast, fluent in Italian, proficient in English (B2), and conversational in Greek.
 
 More about me on my [Linkedin Page](https://www.linkedin.com/in/david-cohen96/).
 
