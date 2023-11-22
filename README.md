@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I am David Cohen, an enthusiastic professional in machine learning and mobile application development. With a deep commitment to advancing in the field of Natural Language Processing, I am always on the lookout for innovative solutions and challenges in the tech world.
+I am David Cohen, an enthusiastic professional in machine learning and software engineering. With a deep commitment to advancing in the field of Natural Language Processing, I am always on the lookout for innovative solutions and challenges in the tech world.
 
 ### What I'm Working On
 - 🔭 **Current Projects:** Focusing on machine learning algorithms and mobile app development.
